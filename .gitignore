@@ -1,0 +1,10 @@
+# No subir secretos
+.env
+
+# No subir datos de Postgres
+/pgdata/
+
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
